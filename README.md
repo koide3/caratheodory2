@@ -71,4 +71,11 @@ void fast_caratheodory_matrix(const Eigen::MatrixXd& P, int k, Eigen::VectorXi& 
 void fast_caratheodory_quadratic(const Eigen::Matrix<double, -1, 6>& J, const Eigen::VectorXd& e, int k, Eigen::VectorXi& indices, Eigen::VectorXd& w, int target_N);
 ```
 
-More details will be made available after the reviewing process.
+## Related work
+
+Kenji Koide, Shuji Oishi, Masashi Yokozuka, and Atsuhiko Banno, Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization, IROS2023
+
+
+## Contact
+
+Kenji Koide (k.koide@aist.go.jp), AIST, Japan
