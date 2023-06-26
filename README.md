@@ -5,7 +5,7 @@ This is a supplementary matrial for our IROS2023 paper to reproduce the numerica
 ## Build
 
 ```bash
-git clone https://github.com/koide3/caratheodory2 -b devel
+git clone https://github.com/koide3/caratheodory2
 mkdir caratheodory2/build && cd caratheodory2/build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 make -j
